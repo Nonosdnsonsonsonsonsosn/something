@@ -1,0 +1,24 @@
+{
+  "name": "manx7",
+  "version": "12.0.1",
+  "description": "nothing shall show",
+  "main": "test.js",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "discord.js-music": "^1.0.3",
+    "discord.js-music-v11": "^1.3.4",
+    "opusscript": "0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "*test"
+  },
+  "scripts": {
+  "start": "node test.js"
+  },
+  "keywords": [
+    "bp"
+  ],
+  "author": "@MistakingManx49#5555",
+  "license": "ISC"
+}
